@@ -1,0 +1,67 @@
+{
+  "Courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Kickstart your guitar-playing journey by learning  strumming rhythms, and tuning your instrument for the perfect sound.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "image": "/courses/guitar.jpg",
+      "isFeatured": true
+    },
+   
+    {
+      "id": 2,
+      "title": "Drumming Techniques",
+      "slug": "drumming-techniques",
+      "description": "Discover essential drumming techniques for beginners and start playing beats today.",
+      "price": 39.99,
+      "instructor": "Mike Johnson",
+      "image": "/courses/drum.jpg",
+      "isFeatured": true
+    },
+   
+    {
+      "id": 3,
+      "title": "Singing Mastery",
+      "slug": "singing-mastery",
+      "description": "Take your vocal skills to the next level with advanced singing techniques and exercises.",
+      "price": 79.99,
+      "instructor": "David Lee",
+      "image": "/courses/side.jpg",
+      "isFeatured": true
+    },
+   
+    {
+      "id": 4,
+      "title": "Advanced Music Theory",
+      "slug": "advanced-music-theory",
+      "description": "Deep dive into music theory, covering scales, modes, and harmony for advanced musicians.",
+      "price": 89.99,
+      "instructor": "Sophia Turner",
+      "image": "/courses/man.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 5,
+      "title": "Violin for Beginners",
+      "slug": "violin-for-beginners",
+      "description": "An introduction to playing the violin, covering posture, bowing, and basic music theory.",
+      "price": 69.99,
+      "instructor": "Emma Williams",
+      "image": "/courses/beautiful.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Piano Basics",
+      "slug": "piano-basics",
+      "description": "Master the fundamentals of piano playing, from reading music to playing your first songs.",
+      "price": 59.99,
+      "instructor": "Jane Smith",
+      "image": "/courses/mid.jpg",
+      "isFeatured": true
+    }
+  ]
+}
